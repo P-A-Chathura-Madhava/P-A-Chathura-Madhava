@@ -1,4 +1,4 @@
-<img src="https://webdesigncompany.lk/images/services/creative-2-software-development-outsourcing-company-in-sri-lanka.gif">
+<img src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif">
 <h1 align="center">Hi 👋, I'm Chathura Madhava</h1>
 <h3 align="center">Associate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhucjY0NGIxNm10cnh0Y2VudGk1Y3RscHBvNGpmZzU5d3hvZTViNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
