@@ -3,8 +3,6 @@
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhucjY0NGIxNm10cnh0Y2VudGk1Y3RscHBvNGpmZzU5d3hvZTViNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<--! - 🌱 I’m currently learning **React** -->
-
 - 💬 Ask me about **Java | JavaScript | Spring Boot | React**
 
 - 📫 How to reach me **chathuratechdev@gmail.com**
