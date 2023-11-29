@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java | JavaScript | Spring Boot | React**
 
-- 📫 How to reach me **ctechict101@gmail.com**
+- 📫 How to reach me **chathuratechdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
